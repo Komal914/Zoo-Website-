@@ -1,9 +1,17 @@
 body {
-  background-color: lightblue;
+  background-color: #e6e8a6;
   text-align: center;
 }
 
 h1 {
-  color: navy;
+  color: black;
   margin-left: 20px;
+  font-size: 100px;
+}
+button {
+  background-color: pink;
+  color: black;
+  border: 2px solid #4caf50; /* Green */
+  width: 100px;
+  height: 50px;
 }
